@@ -1,0 +1,27 @@
+{
+  "background_color": "#7d1616",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "رياضيات",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ريضايات",
+  "start_url": "https://ais-dev-46tnsxnemun3owrcoak5a3-127755168131.europe-west2.run.app/?__aistudio_auth_token=LuT14WQbEALF9sXwuYUf6PREQFEFvWenJHYzAI8mqBM%3D",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://ais-dev-46tnsxnemun3owrcoak5a3-127755168131.europe-west2.run.app/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "lang": "ar",
+  "description": "MATH"
+}
