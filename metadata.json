@@ -1,0 +1,6 @@
+{
+  "name": "NajahMath - رياضيات السادس الإعدادي",
+  "description": "تطبيق حلول رياضيات السادس الإعدادي في العراق بالخطوات، كاميرا حل الأسئلة الوزارية، لوحة إتقان، منافسة المتصدرين، ومحادثة الأساتذة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
