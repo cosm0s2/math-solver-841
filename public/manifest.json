@@ -1,27 +1,21 @@
 {
   "background_color": "#7d1616",
-  "dir": "ltr",
+  "dir": "rtl",
   "display": "standalone",
-  "name": "رياضيات",
+  "name": "رياضيات الخوارزمي",
   "orientation": "any",
   "scope": "/",
-  "short_name": "ريضايات",
-  "start_url": "https://ais-dev-46tnsxnemun3owrcoak5a3-127755168131.europe-west2.run.app/?__aistudio_auth_token=LuT14WQbEALF9sXwuYUf6PREQFEFvWenJHYzAI8mqBM%3D",
+  "short_name": "الخوارزمي",
+  "start_url": "/",
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://ais-dev-46tnsxnemun3owrcoak5a3-127755168131.europe-west2.run.app/favicon.ico",
-      "type": "image/x-icon",
-      "isSquare": false,
-      "isPng": false,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 0,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
+      "src": "/math.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
   "lang": "ar",
-  "description": "MATH"
+  "description": "تطبيق رياضيات الخوارزمي لحلول رياضيات السادس الإعدادي"
 }
